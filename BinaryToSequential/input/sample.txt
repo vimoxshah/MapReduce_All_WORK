@@ -1,0 +1,3 @@
+/home/vm4learning/Desktop/images.jpeg
+/home/vm4learning/Desktop/images1.jpeg
+/home/vm4learning/Desktop/index.jpeg

@@ -1,0 +1,29 @@
+number of animal wit legs=0:	23
+number of animal wit legs=2:	27
+number of animal wit legs=4:	38
+number of animal wit legs=5:	1
+number of animal wit legs=6:	10
+number of animal wit legs=8:	2
+number of animals with property: airborne	24
+number of animals with property: aquatic	36
+number of animals with property: backbone	83
+number of animals with property: breathes	80
+number of animals with property: catsize	44
+number of animals with property: domestic	13
+number of animals with property: eggs	59
+number of animals with property: feathers	20
+number of animals with property: fins	17
+number of animals with property: hair	43
+number of animals with property: milk	41
+number of animals with property: predator	56
+number of animals with property: tail	75
+number of animals with property: toothed	61
+number of animals with property: venomous	8
+number of animals with type =amphibian:	4
+number of animals with type =bird:	20
+number of animals with type =false:	855
+number of animals with type =fish:	13
+number of animals with type =insect:	8
+number of animals with type =invertebrate:	10
+number of animals with type =mammal:	41
+number of animals with type =reptile:	5
